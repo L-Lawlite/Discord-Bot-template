@@ -6,8 +6,9 @@ Template for discord bot in Node Js
 
 ```json
 {
-    "TOKEN" : "",
-    "clientId": "",
-    "guildId": ""
+    "TOKEN" : "<Token goes here>",
+    "clientId": "<Client Id goes here>",
+    "guildId": "<GuildId for 1 guild goes here>"
 }
 ```
+
